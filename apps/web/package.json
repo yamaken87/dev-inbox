@@ -1,5 +1,5 @@
 {
-  "name": "@mailbox/web",
+  "name": "@dev-inbox/web",
   "private": true,
   "scripts": {
     "dev": "vite",

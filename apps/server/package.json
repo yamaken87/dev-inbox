@@ -1,5 +1,5 @@
 {
-  "name": "@mailbox/server",
+  "name": "@dev-inbox/server",
   "private": true,
   "type": "module",
   "scripts": {
